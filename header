@@ -1,3 +1,8 @@
+
+*Vi vil gerne have en banner atigt header med et billede galleri der skifter billede automatisk hvert 5 sekund.
+
+*billederne skal være 1980 w, 1200 h og i PNG format
+
 <header>
 <p class="lars">Hej<p>
 </header>
